@@ -24,6 +24,12 @@ if(mikeAge > steveAge) {
     console.log('both ' + mikeName + ' and ' + steveName + ' are the same age.' )
 }
 
+function myFunction(){
+    return 5 * 5
+}
+console.log(myFunction())
+
+
 
 
 
