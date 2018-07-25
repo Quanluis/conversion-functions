@@ -32,7 +32,7 @@ console.log(myFunction())
 function tipCal(bill) {
 
     var percentage;
-    
+
     if(bill < 50){
         percentage = .2;
     } else if(bill >= 50 && bill <= 200){
@@ -53,5 +53,4 @@ var tips = [ tipCal(bills[0]),
 
 console.log(tips);
 
-
-
+console.log("testing on new text editor")
